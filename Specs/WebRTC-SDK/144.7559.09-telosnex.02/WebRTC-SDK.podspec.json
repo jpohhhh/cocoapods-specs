@@ -3,7 +3,7 @@
   "version": "144.7559.09-telosnex.02",
   "summary": "Telosnex WebRTC m144 Apple prebuilt with durable microphone capture.",
   "description": "Pinned WebRTC m144 XCFramework with app-owned external recording demand and Objective-C ADM ownership APIs.",
-  "homepage": "https://github.com/jpohhhh/libwebrtc",
+  "homepage": "https://github.com/Telosnex/libwebrtc",
   "license": {
     "type": "BSD",
     "file": "WebRTC.xcframework/LICENSE"
@@ -16,7 +16,7 @@
     "visionos": "26.0"
   },
   "source": {
-    "http": "https://github.com/jpohhhh/libwebrtc/releases/download/libwebrtc.m144.7559.09-telosnex.02/WebRTC.xcframework.zip",
+    "http": "https://github.com/Telosnex/libwebrtc/releases/download/libwebrtc.m144.7559.09-telosnex.02/WebRTC.xcframework.zip",
     "sha256": "9ba5491b7b3e754c30c4bbad307162d855f809455649e0d2506ca0eaea5219e4"
   },
   "vendored_frameworks": "WebRTC.xcframework",
